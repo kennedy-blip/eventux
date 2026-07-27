@@ -8,4 +8,4 @@ fixx
 errorss
 git
 clear
-cac
+cach
