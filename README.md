@@ -9,4 +9,4 @@ errorss
 git
 clear
 cachee
-com
+comm
