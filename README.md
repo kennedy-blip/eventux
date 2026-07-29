@@ -11,3 +11,4 @@ clear
 cachee
 committ
 then
+p
