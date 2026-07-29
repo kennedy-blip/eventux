@@ -11,4 +11,4 @@ clear
 cachee
 committ
 then
-pu
+pus
