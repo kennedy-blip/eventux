@@ -10,4 +10,4 @@ git
 clear
 cachee
 committ
-the
+then
