@@ -12,4 +12,4 @@ cachee
 committ
 then
 push
-t
+to
