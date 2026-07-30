@@ -13,4 +13,4 @@ committ
 then
 push
 to
-gi
+git
