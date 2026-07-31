@@ -13,4 +13,4 @@ committ
 then
 push
 to
-githubb . c
+githubb . co
