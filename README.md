@@ -13,4 +13,4 @@ committ
 then
 push
 to
-githubb . co
+githubb . com
